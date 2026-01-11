@@ -1,93 +1,67 @@
-# Portfolio Website - Divyasri M
+🚀 Divyasri M — Developer Portfolio
 
-A world-class developer portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
+A modern, responsive, and visually rich developer portfolio website built using React, Vite, and Tailwind CSS.
+This website showcases my skills, projects, achievements, and competitive programming profile in a clean and professional way.
 
-## 🚀 Features
+🌐 Live Demo
 
-- **Modern Design**: Dark theme with neon accents and glassmorphism effects
-- **Smooth Animations**: Powered by Framer Motion for premium user experience
-- **Fully Responsive**: Optimized for all devices
-- **Performance**: Built with Vite for lightning-fast builds
-- **SEO Friendly**: Semantic HTML and proper meta tags
+🔗 https://portfolio-react.vercel.app
+ (replace with your actual Vercel link)
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-- **React 18** - UI library
-- **Vite** - Build tool
-- **Tailwind CSS** - Styling
-- **Framer Motion** - Animations
-- **React Icons** - Icon library
+Frontend: React.js, Vite
 
-## 📦 Installation
+Styling: Tailwind CSS
 
-1. Clone the repository:
-```bash
-git clone <your-repo-url>
+Animations: Framer Motion
+
+Version Control: Git & GitHub
+
+Deployment: Vercel
+
+✨ Features
+
+Modern dark-themed UI with smooth animations
+
+Fully responsive for mobile, tablet, and desktop
+
+Dedicated sections for About, Skills, Projects, and Achievements
+
+Competitive Programming profiles (LeetCode, CodeChef, Codeforces)
+
+Downloadable resume and social media links
+
+Fast and optimized build using Vite
+
+📂 Project Setup
+
+Clone the repository
+
+git clone https://github.com/Divyasri-m18/portfolio-react.git
 cd portfolio-react
-```
 
-2. Install dependencies:
-```bash
+
+Install dependencies
+
 npm install
-```
 
-3. Start the development server:
-```bash
+
+Run the development server
+
 npm run dev
-```
 
-4. Build for production:
-```bash
+
+Build for production
+
 npm run build
-```
 
-## 🚀 Deployment
+📬 Contact
 
-### Vercel (Recommended)
+GitHub: https://github.com/Divyasri-m18
 
-1. Push your code to GitHub
-2. Import your repository on [Vercel](https://vercel.com)
-3. Vercel will automatically detect Vite and configure the build settings
-4. Deploy!
+LinkedIn: https://www.linkedin.com/in/divyasri-m-3036362a5/
 
-The project is already configured for Vercel deployment with `vercel.json`.
+LeetCode: https://leetcode.com/u/W45JOy9Qxo/
 
-### Manual Deployment
-
-1. Build the project: `npm run build`
-2. The `dist` folder contains the production-ready files
-3. Deploy the `dist` folder to your hosting provider
-
-## 📝 Customization
-
-### Update Social Links & Profile URLs
-
-All links are centralized in configuration files for easy updates:
-
-1. **Social Links** - Edit `src/config/links.js`:
-   - Update `GITHUB_USERNAME`, `LINKEDIN_USERNAME`, etc.
-   - All social links will automatically update across the site
-
-2. **Project Links** - Edit `src/config/projects.js`:
-   - Update `GITHUB_USERNAME` at the top
-   - Update individual project GitHub and demo URLs
-   - Example format:
-     ```javascript
-     github: `https://github.com/${GITHUB_USERNAME}/project-name`,
-     demo: 'https://project-name.vercel.app',
-     ```
-
-### Other Customizations
-
-- Update personal information in component files
-- Modify colors in `tailwind.config.js`
-- Add/remove sections in `App.jsx`
-- Place your resume PDF in the `public` folder as `resume.pdf`
-
-## 📄 License
-
-MIT License - feel free to use this template for your own portfolio!
-
----
-
-Built with ❤️ by Divyasri M
+CodeChef: https://www.codechef.com/users/kit27cse19
